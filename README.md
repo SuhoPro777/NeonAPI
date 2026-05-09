@@ -7,7 +7,7 @@ API bilan ishlash - so'rovlar yuborish, javob olish va boshqarish kutubxonasi.
 
 ## O'rnatish
 ```bash
-pip install neonapi
+pip install git clone https://github.com/SuhoPro777/NeonAPI.git
 ```
 
 ## Ishlatish
