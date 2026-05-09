@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="neonapi",
+    name="NeonAPI",
     version="1.0.0",
     description="NeonAPI - API interaction and management library.",
     author="Neon Team",
